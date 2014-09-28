@@ -1,0 +1,9 @@
+body {
+	background: url(https://raw.githubusercontent.com/birdiedesigns/unit3/master/images/background.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+hr {
+	width: 100px;
+}
